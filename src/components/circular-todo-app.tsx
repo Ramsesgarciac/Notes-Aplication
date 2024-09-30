@@ -52,7 +52,7 @@ export function CircularTodoAppComponent() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-500 to-pink-500 flex flex-col items-center justify-center p-4">
       <div className="bg-white bg-opacity-20 backdrop-blur-lg rounded-3xl p-8 w-full max-w-md">
-        <h1 className="text-4xl font-bold text-white mb-6 text-center">Todas las Notas</h1>
+        <h1 className="text-4xl font-bold text-white mb-6 text-center">Todas las Notas gg</h1>
         
         <div className="flex mb-4">
           <Input
